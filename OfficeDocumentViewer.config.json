@@ -1,0 +1,44 @@
+{
+    "Disabled": [
+        false,
+        "bool"
+    ],
+    "IncludeInMobile": [
+        true,
+        "bool"
+    ],
+    "ExtensionsToView": [
+        [
+            "doc",
+            "docx",
+            "docm",
+            "dotm",
+            "dotx",
+            "xlsx",
+            "xlsb",
+            "xls",
+            "xlsm",
+            "pptx",
+            "ppsx",
+            "ppt",
+            "pps",
+            "pptm",
+            "potm",
+            "ppam",
+            "potx",
+            "ppsm",
+            "odt",
+            "odx",
+            "pdf",
+            "csv",
+            "odp",
+            "rtf",
+            "txt"
+        ],
+        "array"
+    ],
+    "ViewerUrl": [
+        "https:\/\/mail.domain.com\/office\/?url=",
+        "string"
+    ]
+}
