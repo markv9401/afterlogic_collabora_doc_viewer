@@ -52,3 +52,5 @@ I am no PHP developer and I hacked this together with zero deeper knowledge rega
 Afterlogic - <https://afterlogic.org/webmail-lite>
 
 Collabora CODE - <https://www.collaboraoffice.com/code/>
+
+Collabora SDK PHP example _(heavily used in this hack)_ <https://github.com/CollaboraOnline/collabora-online-sdk-examples/tree/master/webapp/php>
